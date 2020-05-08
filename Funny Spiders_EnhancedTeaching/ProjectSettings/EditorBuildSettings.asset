@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TeacherView.unity
+    guid: e0fd0be71abeb8947a68a65db42c5a7a
   m_configObjects: {}
